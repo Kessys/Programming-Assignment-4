@@ -53,6 +53,6 @@ There are 5 parts:
 
 - Extract the mean and standard deviation column names and data.
 
-- Process the data. There are two parts processing test and train data respectively.
+- Process the data.
 
 - Merge data set.
